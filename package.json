@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/j0hm4r/learning-node/issues"
   },
-  "homepage": "https://github.com/j0hm4r/learning-node#readme"
+  "homepage": "https://github.com/j0hm4r/learning-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
