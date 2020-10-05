@@ -1,0 +1,19 @@
+{
+  "name": "task-list",
+  "version": "1.0.0",
+  "description": "Example from the book *What you need to know about Node.js* by Bruno Joseph Dmello, published by Packt in 2016.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j0hm4r/learning-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j0hm4r/learning-node/issues"
+  },
+  "homepage": "https://github.com/j0hm4r/learning-node#readme"
+}
